@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div div {
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+}
